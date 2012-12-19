@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.jiuji.fly.as3.model.BaseModel3D"/>
+    <classEntry path="com.jiuji.fly.as3.model.feature.ClickFeature"/>
+    <classEntry path="com.jiuji.fly.as3.model.feature.BaseFeature"/>
+    <classEntry path="com.jiuji.fly.as3.events.ModelRelatedEvent"/>
+    <classEntry path="com.jiuji.fly.as3.model.feature.RotateFeature"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
